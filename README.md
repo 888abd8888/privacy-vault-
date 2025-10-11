@@ -1,4 +1,4 @@
-# 🔒 privacy-vault
+# privacy-vault
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aina-olamilekan/privacy-vault/main/assets/banner.png" alt="Privacy Vault Banner" width="800"/>
