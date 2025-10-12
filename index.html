@@ -1,99 +1,147 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Privacy Vault – Building Trust, Protecting Privacy, Empowering Productivity." />
-  <title>Privacy Vault</title>
+  <title>Aina Olamilekan | Portfolio</title>
 
-  <!-- Fonts and Icons -->
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
+  <!-- Orbitron Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&display=swap" rel="stylesheet" />
 
   <style>
     body {
       margin: 0;
-      height: 100vh;
-      background: radial-gradient(circle at top, #020202, #000000);
-      color: #00ffaa;
-      font-family: 'Orbitron', sans-serif;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-direction: column;
-      overflow: hidden;
+      font-family: "Orbitron", sans-serif;
+      background-color: #0a0a0f;
+      color: #fff;
+      overflow-x: hidden;
     }
 
-    .container {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 30px;
+    /* Neon Glow Animation */
+    @keyframes neonGlow {
+      0%, 100% {
+        text-shadow: 0 0 5px #00ffaa, 0 0 10px #00ffaa, 0 0 20px #9b5de5;
+      }
+      50% {
+        text-shadow: 0 0 15px #00ffaa, 0 0 30px #9b5de5;
+      }
     }
 
-    .logo {
-      width: 180px;
-      height: auto;
-      filter: drop-shadow(0 0 20px #00ffaa);
-      animation: glow 2s ease-in-out infinite alternate;
-    }
-
-    @keyframes glow {
-      from { filter: drop-shadow(0 0 8px #00ffaa); }
-      to { filter: drop-shadow(0 0 25px #00ffaa); }
-    }
-
-    .text-section h1 {
-      font-size: 2.8rem;
-      margin-bottom: 10px;
-      letter-spacing: 2px;
-      text-shadow: 0 0 10px #00ffaa;
-    }
-
-    .text-section p {
-      color: #b6ffec;
-      font-size: 1rem;
+    header {
       text-align: center;
-      letter-spacing: 1px;
+      padding: 80px 20px 40px;
+    }
+
+    header h1 {
+      font-size: 3rem;
+      color: #00ffaa;
+      animation: neonGlow 2s infinite alternate;
+    }
+
+    header p {
+      color: #9b5de5;
+      font-size: 1.1rem;
+      margin-top: 10px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+
+    section {
+      max-width: 900px;
+      margin: 50px auto;
+      padding: 20px;
+    }
+
+    h2 {
+      color: #00ffaa;
+      text-shadow: 0 0 10px #00ffaa;
+      border-left: 3px solid #9b5de5;
+      padding-left: 10px;
+    }
+
+    /* Project Card */
+    .project-card {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 15px;
+      margin-top: 30px;
+      padding: 30px;
+      text-align: center;
+      transition: all 0.3s ease-in-out;
+    }
+
+    .project-card:hover {
+      transform: scale(1.03);
+      box-shadow: 0 0 15px #00ffaa;
+    }
+
+    .project-card img {
+      width: 120px;
+      height: auto;
+      margin-bottom: 20px;
+      filter: drop-shadow(0 0 8px #9b5de5);
     }
 
     .btn {
-      margin-top: 25px;
-      background: transparent;
-      color: #00ffaa;
+      display: inline-block;
+      margin: 10px 8px;
+      padding: 10px 20px;
       border: 2px solid #00ffaa;
-      padding: 10px 25px;
-      border-radius: 10px;
-      cursor: pointer;
-      font-size: 1rem;
+      color: #00ffaa;
+      text-decoration: none;
+      border-radius: 8px;
       transition: 0.3s;
     }
 
     .btn:hover {
-      background: #00ffaa;
-      color: black;
+      background-color: #00ffaa;
+      color: #0a0a0f;
       box-shadow: 0 0 20px #00ffaa;
     }
 
     footer {
-      position: absolute;
-      bottom: 15px;
-      font-size: 0.85rem;
-      color: #00ffaa;
-      opacity: 0.8;
+      text-align: center;
+      padding: 30px;
+      color: #888;
+      font-size: 0.9rem;
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      margin-top: 60px;
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <img src="Privacy-Vault-Logo.png" alt="Privacy Vault Logo" class="logo" />
-    <div class="text-section">
-      <h1>PRIVACY VAULT</h1>
-      <p>Building Trust, Protecting Privacy, Empowering Productivity</p>
-      <a href="https://github.com/YOUR-USERNAME/YOUR-REPO" target="_blank">
-        <button class="btn">View on GitHub</button>
-      </a>
+  <header>
+    <h1>Aina Olamilekan</h1>
+    <p>Cyber Security | Data Privacy Enthusiast</p>
+  </header>
+
+  <section id="projects">
+    <h2>🚀 Featured Projects</h2>
+
+    <div class="project-card">
+      <img src="Privacy-Vault-Logo.png" alt="Privacy Vault Logo" />
+      <h3>Privacy Vault</h3>
+      <p>A cyber-dark themed data protection project focused on trust, encryption, and privacy empowerment.</p>
+      <a href="https://ainaolamide.github.io/Privacy-Vault/" target="_blank" class="btn">Live Demo</a>
+      <a href="https://github.com/ainaolamide/Privacy-Vault" target="_blank" class="btn">Source Code</a>
     </div>
-  </div>
-  <footer>© 2025 Privacy Vault | All Rights Reserved</footer>
+
+    <!-- Placeholder for Future Projects -->
+    <div class="project-card">
+      <h3>Coming Soon...</h3>
+      <p>More innovative privacy and security solutions under development.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>📬 Contact</h2>
+    <p><strong>Email:</strong> <a href="mailto:privacyvault11@gmail.com" style="color:#00ffaa;">privacyvault11@gmail.com</a></p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/ainaolamide" style="color:#9b5de5;">github.com/ainaolamide</a></p>
+  </section>
+
+  <footer>
+    © 2025 Aina Olamilekan — All Rights Reserved.
+  </footer>
 </body>
 </html>
