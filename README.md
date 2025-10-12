@@ -1,77 +1,137 @@
 
-<!-- Privacy Vault – Professional GitHub README -->
-<div align="center" style="background-color:#0d1117; padding:30px; border-radius:10px;">
+# 🛡️ Privacy Vault
 
-  <img src="banner.png" alt="Privacy Vault Banner" width="80%" style="border-radius:15px;">
+**Project Status:** ✅ Completed — October 2025  
 
-  <h1 style="color:#c9d1d9;">🔒 Privacy Vault</h1>
-  <p style="color:#8b949e;">
-    <em><b>Building Trust, Protecting Privacy, Empowering Productivity</b></em>
-  </p>
+<p align="center">
+  <img src="banner.png" alt="Privacy Vault Banner" width="80%">
+</p>
 
-  <!-- Social & Contact Badges -->
-  <p align="center">
-    <a href="mailto:privacyvault11@gmail.com">
-      <img src="https://img.shields.io/badge/Email-privacyvault11@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/ainaolamide245-blip">
-      <img src="https://img.shields.io/badge/GitHub-AinaOlamilekan-181717?style=for-the-badge&logo=github" />
-    </a>
-    <a href="https://www.linkedin.com/in/ainaolamilekan">
-      <img src="https://img.shields.io/badge/LinkedIn-Aina%20Olamilekan-blue?style=for-the-badge&logo=linkedin" />
-    </a>
-  </p>
+---
 
-  ---
+## 🖼️ Visual Overview
+<p align="center">
+  <img src="banner.png" alt="Privacy Vault Overview" width="80%">
+</p>
 
-  ### 📊 Project Status
-  ✅ **Completed — October 2025**
+---
 
-  ---
+## 🎯 Project Objectives
 
-  ### 🖼️ Visual Overview
-  <img src="banner.png" alt="Visual Overview" width="80%" style="border-radius:15px;">
+- Develop a reliable system for secure data storage.  
+- Enhance user trust through transparent encryption.  
+- Simplify access without compromising data protection.  
+- Promote digital privacy awareness.
 
-  ---
+---
 
-  ### 🧠 Technologies Used
-  <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </p>
+## ⚙️ Technologies Used
 
-  ---
+- **Programming Language:** Python  
+- **Database:** SQLite / MySQL  
+- **Frameworks:** Flask (for backend), HTML/CSS (for frontend)  
+- **Encryption:** AES-256 Secure Encryption  
+- **Version Control:** Git & GitHub  
+- **Design Tools:** Figma / Canva for UI design
 
-  ### 🎯 Project Objectives
-  <div align="left" style="color:#c9d1d9;">
-  1. Develop a reliable system for secure data storage.  
-  2. Enhance user trust through transparent encryption.  
-  3. Simplify access without compromising data protection.  
-  4. Promote digital privacy awareness.  
-  </div>
+---
 
-  ---
+## 💡 Key Features
 
-  ### 👨‍💻 Author
-  <div align="left" style="color:#c9d1d9;">
-  <b>Aina Olamilekan</b>  
-  Department of Computer Science  
-  Federal University of Technology Akure (FUTA)  
-  📧 <a href="mailto:privacyvault11@gmail.com" style="color:#58a6ff;">privacyvault11@gmail.com</a>
-  </div>
+- 🔐 End-to-end encryption for sensitive data.  
+- 👥 User authentication and secure session management.  
+- 💾 Encrypted local and cloud data backup.  
+- 🧩 Simple, intuitive user interface for seamless interaction.  
+- 🔍 Transparent security protocols to build user confidence.  
+- 🌍 Responsive design for both desktop and mobile users.
 
-  ---
+---
 
-  ### ⚖️ License
-  <div align="left" style="color:#8b949e;">
-  This project is licensed under the <a href="LICENSE" style="color:#58a6ff;">MIT License</a>.
-  </div>
+## 🚀 Future Improvements
 
-  ---
+- Integration with blockchain for enhanced transparency.  
+- Support for multi-user access and sharing permissions.  
+- AI-based anomaly detection for unauthorized access.  
+- Improved real-time encryption performance.
 
-  <p style="color:#8b949e;">© 2025 <b>Privacy Vault</b>. All rights reserved.</p>
+---
 
-</div>
+## 👨‍💻 Author
+
+**Aina Olamilekan**  
+Department of Computer Science  
+Federal University of Technology Akure (FUTA)  
+📧 **Email:** [privacyvault11@gmail.com](mailto:privacyvault11@gmail.com)
+
+---
+
+<p align="center">© 2025 <b>Privacy Vault</b>. All rights reserved.</p>
+
+On Sun, 12 Oct 2025, 17:51 Oluwasegun Olamide, <oluwasegunolamide911@gmail.com> wrote:
+# 🛡️ Privacy Vault
+
+**Project Status:** ✅ Completed — October 2025  
+
+<p align="center">
+  <img src="Internet_20250926_154926_8.png" alt="Privacy Vault Banner" width="80%">
+</p>
+
+---
+
+## 🖼️ Visual Overview
+<p align="center">
+  <img src="Internet_20250926_154926_8.png" alt="Privacy Vault Overview" width="80%">
+</p>
+
+---
+
+## 🎯 Project Objectives
+
+- Develop a reliable system for secure data storage.  
+- Enhance user trust through transparent encryption.  
+- Simplify access without compromising data protection.  
+- Promote digital privacy awareness.
+
+---
+
+## ⚙️ Technologies Used
+
+- **Programming Language:** Python  
+- **Database:** SQLite / MySQL  
+- **Frameworks:** Flask (for backend), HTML/CSS (for frontend)  
+- **Encryption:** AES-256 Secure Encryption  
+- **Version Control:** Git & GitHub  
+- **Design Tools:** Figma / Canva for UI design
+
+---
+
+## 💡 Key Features
+
+- 🔐 End-to-end encryption for sensitive data.  
+- 👥 User authentication and secure session management.  
+- 💾 Encrypted local and cloud data backup.  
+- 🧩 Simple, intuitive user interface for seamless interaction.  
+- 🔍 Transparent security protocols to build user confidence.  
+- 🌍 Responsive design for both desktop and mobile users.
+
+---
+
+## 🚀 Future Improvements
+
+- Integration with blockchain for enhanced transparency.  
+- Support for multi-user access and sharing permissions.  
+- AI-based anomaly detection for unauthorized access.  
+- Improved real-time encryption performance.
+
+---
+
+## 👨‍💻 Author
+
+**Aina Olamilekan**  
+Department of Computer Science  
+Federal University of Technology Akure (FUTA)  
+📧 **Email:** [privacyvault11@gmail.com](mailto:privacyvault11@gmail.com)
+
+---
+
+<p align="center">© 2025 <b>Privacy Vault</b>. All rights reserved.</p>
