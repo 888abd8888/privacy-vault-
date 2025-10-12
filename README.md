@@ -1,7 +1,13 @@
-# privacy-vault
+![Privacy Vault Banner](assets/banner.png)
+
+# Privacy Vault
+
+A secure, elegant solution for managing and protecting your private data.  
+Built with privacy-first principles to ensure control, trust, and transparency.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aina-olamilekan/privacy-vault/main/assets/banner.png" alt="Privacy Vault Banner" width="800"/>
+ <img
+src="https://raw.githubusercontent.com/aina-olamilekan/privacy-vault/main/assets/banner.png" alt="Privacy Vault Banner" width="800"/>
 </p>
 
 >A digital fortress built on **Faith, Code, and Purpose** - Empowering Privacy, Trust,  and Transparency Through Innovation.
