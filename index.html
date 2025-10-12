@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Privacy Vault – Building Trust, Protecting Privacy, Empowering Productivity." />
+  <title>Privacy Vault</title>
+
+  <!-- Fonts and Icons -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      background: radial-gradient(circle at top, #020202, #000000);
+      color: #00ffaa;
+      font-family: 'Orbitron', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 30px;
+    }
+
+    .logo {
+      width: 180px;
+      height: auto;
+      filter: drop-shadow(0 0 20px #00ffaa);
+      animation: glow 2s ease-in-out infinite alternate;
+    }
+
+    @keyframes glow {
+      from { filter: drop-shadow(0 0 8px #00ffaa); }
+      to { filter: drop-shadow(0 0 25px #00ffaa); }
+    }
+
+    .text-section h1 {
+      font-size: 2.8rem;
+      margin-bottom: 10px;
+      letter-spacing: 2px;
+      text-shadow: 0 0 10px #00ffaa;
+    }
+
+    .text-section p {
+      color: #b6ffec;
+      font-size: 1rem;
+      text-align: center;
+      letter-spacing: 1px;
+    }
+
+    .btn {
+      margin-top: 25px;
+      background: transparent;
+      color: #00ffaa;
+      border: 2px solid #00ffaa;
+      padding: 10px 25px;
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 1rem;
+      transition: 0.3s;
+    }
+
+    .btn:hover {
+      background: #00ffaa;
+      color: black;
+      box-shadow: 0 0 20px #00ffaa;
+    }
+
+    footer {
+      position: absolute;
+      bottom: 15px;
+      font-size: 0.85rem;
+      color: #00ffaa;
+      opacity: 0.8;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="Privacy-Vault-Logo.png" alt="Privacy Vault Logo" class="logo" />
+    <div class="text-section">
+      <h1>PRIVACY VAULT</h1>
+      <p>Building Trust, Protecting Privacy, Empowering Productivity</p>
+      <a href="https://github.com/YOUR-USERNAME/YOUR-REPO" target="_blank">
+        <button class="btn">View on GitHub</button>
+      </a>
+    </div>
+  </div>
+  <footer>© 2025 Privacy Vault | All Rights Reserved</footer>
+</body>
+</html>
