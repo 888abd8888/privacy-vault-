@@ -64,3 +64,9 @@ python src/main.py
 
 ---
 
+📂 [View Project Presentation](./Privacy_Vault_Presentation.pptx)
+📘 [Read Full Dissertation](./Privacy_Vault_Dissertation.docx)
+🖼️ [View Project Banner](./assets.jpg)
+
+---
+
