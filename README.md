@@ -1,3 +1,17 @@
+# ⚡ Privacy Vault — v1.0 Stable
+
+![Release](https://img.shields.io/badge/release-v1.0--stable-brightgreen)
+![Status](https://img.shields.io/badge/status-stable-blue)
+![License](https://img.shields.io/badge/license-MIT-orange)
+
+🚀 **Live Demo:** [View Cyber Portfolio — Stable Release](https://ainaolamide245-blip.github.io/privacy-vault/)
+
+📅 **Release Date:** October 2025  
+👨‍💻 **Author:** Aina Olamilekan  
+🧾 **Version:** v1.0 Stable  
+🔐 **Hosted via:** GitHub Pages (HTTPS)
+
+---
 
 # ⚡ Cyber Portfolio – Privacy Vault (v1.0-beta)
 
