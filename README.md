@@ -1,60 +1,49 @@
-# ⚡ Privacy Vault — v1.0 Stable
+# 🛡️ Privacy Vault
 
-![Release](https://img.shields.io/badge/release-v1.0--stable-brightgreen)
-![Status](https://img.shields.io/badge/status-stable-blue)
-![License](https://img.shields.io/badge/license-MIT-orange)
-
-🚀 **Live Demo:** [View Cyber Portfolio — Stable Release](https://ainaolamide245-blip.github.io/privacy-vault/)
-
-📅 **Release Date:** October 2025  
-👨‍💻 **Author:** Aina Olamilekan  
-🧾 **Version:** v1.0 Stable  
-🔐 **Hosted via:** GitHub Pages (HTTPS)
+**A digital fortress built on faith, code, and purpose — empowering privacy, trust, and transparency through innovation.**
 
 ---
 
-# ⚡ Cyber Portfolio – Privacy Vault (v1.0-beta)
+## 🌍 Live Project
+👉 [Privacy Vault GitHub Page](https://ainaolamide245-blip.github.io/privacy-vault-/)
 
-**Author:** Aina Olamilekan  
-**Status:** 🟡 Pre-Release (v1.0-beta)  
-**Date:** October 2025  
-**License:** MIT  
+*(If the link temporarily redirects, it’s due to an upcoming domain connection for the official site.)*
 
 ---
 
-## 🚀 Live Demo  
-👉 [View Cyber Portfolio Pre-Release](https://ainaolamide245-blip.github.io/privacy-vault/)
+## 💡 About the Project
+**Privacy Vault** is an open-source privacy initiative focused on building **trust, security, and transparency** in the digital world.
+
+We aim to empower individuals, institutions, and governments to:
+- Protect data privacy  
+- Ensure accountability  
+- Build trust through transparency
 
 ---
 
-## 🧠 Overview  
-
-**Privacy Vault** is the first public version of Aina Olamilekan’s Cyber-Dark Portfolio — a fusion of data protection, privacy empowerment, and futuristic design.  
-This pre-release demonstrates a **neon-inspired visual identity**, a fast static **HTML/CSS** structure, and deployment via **GitHub Pages (HTTPS)**.
-
----
-
-## ✨ Highlights  
-
-- 🌌 **Dark Neon UI** with animated glow header  
-- 🔐 **Privacy Vault featured project** with live demo  
-- 💻 **Responsive design** for desktop and mobile  
-- ⚙️ **Optimized inline CSS** for smooth performance  
-- 🎨 **Orbitron font integration** for a sci-fi look  
-- 🚀 **Deployed via GitHub Pages** with HTTPS  
+## 🔑 Core Values
+- **Trust** — Building systems that earn confidence.  
+- **Privacy** — Protecting every user’s digital identity.  
+- **Transparency** — Open code, open collaboration.  
+- **Innovation** — Using technology to empower productivity.
 
 ---
 
-## 🧩 Technical Details  
-
-| Feature | Description |
-|----------|--------------|
-| **Language** | HTML / CSS (Vanilla) |
-| **Hosting** | GitHub Pages (HTTPS) |
-| **Design Theme** | Cyber-dark + Neon accents |
-| **Font** | [Orbitron – Google Fonts](https://fonts.google.com/specimen/Orbitron) |
-| **Accessibility** | Mobile-first responsive layout |
+## 🚀 Vision
+To create a global foundation that bridges **faith, trust, and technology**, starting from open code and ethical design.
 
 ---
 
-## 📦 Project Structure
+## 💜 Support This Project
+Your support helps fund:
+- Domain purchase for [privacyvault.org](http://privacyvault.org)  
+- Secure hosting  
+- Ongoing development & education  
+
+📩 Contact: `ainaolamide99@gmail.com`  
+💜 Twitter: [@ainaolamide245](https://twitter.com/ainaolamide245)
+
+---
+
+## 📄 License
+MIT License © 2025 Privacy Vault
